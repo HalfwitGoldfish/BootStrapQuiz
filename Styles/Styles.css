@@ -1,0 +1,21 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+#lorem-dogs{
+    width: 500px;
+}
+
+#lorem-dogs-container{
+    border: solid black 1px;
+}
+
+#lorem-text{
+    font-size: 24px;
+    font-weight: bold;
+}
